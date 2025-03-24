@@ -1,5 +1,5 @@
-<!-- 🔥 Purple Themed Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=🚀%20Welcome%20to%20My%20GitHub%20Profile!&fontSize=35&fontColor=fff&animation=twinkling)
+<!-- 🔥 Full-Width Fire Themed Header -->
+![Header](https://capsule-render.vercel.app/api?type=rect&color=ff4500&height=180&section=header&text=🔥%20Welcome%20to%20My%20GitHub%20Profile!&fontSize=35&fontColor=fff&animation=twinkling)
 
 <!-- ✨ Name with Waving Hand -->
 <h1 align="center" style="background: radial-gradient(circle, rgba(138,43,226,0.3) 10%, rgba(0,0,0,0) 60%); padding: 15px; border-radius: 10px;">
@@ -71,4 +71,5 @@
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=footer)
+<!-- 🔥 Full-Width Fire Themed Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=ff4500&height=150&section=footer)
