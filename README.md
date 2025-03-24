@@ -1,25 +1,32 @@
-<!-- 🚀 Fully Centered Animated Fire Header -->
-<p align="center" style="width:100%; height:100%;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=FFA500&center=true&vCenter=true&multiline=true&height=80&lines=🔥+Welcome+to+My+GitHub!+🔥;Exploring+Code+One+Line+at+a+Time!+🚀" />
-</p>
+<!-- 🔥 Animated Header with Purple-Blue Gradient -->
+<div align="center" width="100%">
+  <p>
+    <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="100%" height="160px">
+  </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" height="160px">
-</p>
+  <h1 style="font-size: 36px; font-weight: bold; background: linear-gradient(to right, #8A2BE2, #4B0082, #00FFFF); -webkit-background-clip: text; color: transparent;">
+    🚀 Welcome to My GitHub! 🚀
+  </h1>
 
-<!-- ✨ Name with Waving Hand -->
-<h1 align="center">
-  Hi there, I'm <strong>Priyanshu Anand</strong>  
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" />
-</h1>
+  <p>
+    <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" height="3px">
+  </p>
+</div>
+
+<!-- ✨ Fully Centered Name with Smooth Typing Animation -->
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&height=80&lines=Priyanshu+Anand;...Web+Developer;......AI%2FML+Enthusiast" />
+  </h1>
+</div>
 
 ---
 
-## 🚀 About Me  
+<!-- 🚀 About Me Section with Purple-Blue Background -->
+<h2 align="center">🚀 About Me</h2>
 <div align="center">
   <img src="https://media.giphy.com/media/h8nXhJ9TfRuwzZYg5E/giphy.gif" width="100%" height="3px">
 </div>
-
 <div align="center" style="background: linear-gradient(45deg, rgba(138,43,226,0.7), rgba(0,0,255,0.7)); padding: 20px; border-radius: 15px;">
   
 🎓 **B.E. in Information Technology** at **UIET, Panjab University**  
@@ -29,15 +36,14 @@
 📫 Contact me at **priyanshu82711@gmail.com**  
 
 </div>
-
 <div align="center">
   <img src="https://media.giphy.com/media/h8nXhJ9TfRuwzZYg5E/giphy.gif" width="100%" height="3px">
 </div>
 
 ---
 
-## 🛠️ Tech Stack  
-
+<!-- 🛠️ Tech Stack - Fully Centered -->
+<h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
   
 ### 💻 Languages & Frameworks  
@@ -62,13 +68,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+  
 </div>
 
 ---
 
-## 📊 GitHub Stats  
-
+<!-- 📊 GitHub Stats - Fully Centered -->
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyans11&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyans11&theme=radical" />
@@ -76,8 +82,8 @@
 
 ---
 
-## 📬 Connect with Me  
-
+<!-- 📬 Connect With Me - Fully Centered -->
+<h2 align="center">📬 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/conquest-X1">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -92,11 +98,17 @@
 
 ---
 
-<!-- 🚀 Fully Centered Animated Fire Footer -->
-<p align="center" style="width:100%; height:100%;">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" height="160px">
-</p>
+<!-- 🔥 Fully Centered Animated Footer -->
+<div align="center" width="100%">
+  <p>
+    <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="100%" height="160px">
+  </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=4000&color=FFA500&center=true&vCenter=true&multiline=true&height=50&lines=🔥+Thanks+for+visiting!+🔥;Keep+Coding,+Keep+Building!+🚀" />
-</p>
+  <h1 style="font-size: 28px; font-weight: bold; background: linear-gradient(to right, #8A2BE2, #4B0082, #00FFFF); -webkit-background-clip: text; color: transparent;">
+    🔥 Thanks for Visiting! Keep Coding, Keep Building! 🔥
+  </h1>
+
+  <p>
+    <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" height="3px">
+  </p>
+</div>
