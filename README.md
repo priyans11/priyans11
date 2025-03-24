@@ -1,28 +1,25 @@
-<!-- 🔥 Animated Header with Purple-Blue Gradient -->
-<div align="center" width="100%">
-  <p>
-    <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="100%" height="160px">
-  </p>
-
-  <h1 style="font-size: 36px; font-weight: bold; background: linear-gradient(to right, #8A2BE2, #4B0082, #00FFFF); -webkit-background-clip: text; color: transparent;">
+<!-- 🔥 Animated Header with Aizen GIF -->
+<div align="center" style="width: 100%; position: relative;">
+  <!-- Background GIF -->
+  <img src="https://media.tenor.com/2M6V2hTXfR8AAAAC/aizen.gif" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;">
+  
+  <!-- Welcome Message -->
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+             font-family: 'Orbitron', sans-serif; font-size: 36px; font-weight: bold;
+             background: linear-gradient(to right, #8A2BE2, #4B0082, #00FFFF); 
+             -webkit-background-clip: text; color: transparent; padding: 10px 20px;">
     🚀 Welcome to My GitHub! 🚀
   </h1>
-
-  <p>
-    <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" height="3px">
-  </p>
 </div>
 
 <!-- ✨ Fully Centered Name with Smooth Typing Animation -->
-<div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&height=80&lines=Priyanshu+Anand;...Web+Developer;......AI%2FML+Enthusiast" />
-  </h1>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&height=80&lines=I+am+Priyanshu+Anand...;Web+Developer...;AI%2FML+Enthusiast...;Priyanshu+Anand..." />
+</p>
 
 ---
 
-<!-- 🚀 About Me Section with Purple-Blue Background -->
+<!-- 🚀 About Me Section -->
 <h2 align="center">🚀 About Me</h2>
 <div align="center">
   <img src="https://media.giphy.com/media/h8nXhJ9TfRuwzZYg5E/giphy.gif" width="100%" height="3px">
@@ -42,7 +39,7 @@
 
 ---
 
-<!-- 🛠️ Tech Stack - Fully Centered -->
+<!-- 🛠️ Tech Stack -->
 <h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
   
@@ -73,7 +70,7 @@
 
 ---
 
-<!-- 📊 GitHub Stats - Fully Centered -->
+<!-- 📊 GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyans11&show_icons=true&theme=radical" />
@@ -82,7 +79,7 @@
 
 ---
 
-<!-- 📬 Connect With Me - Fully Centered -->
+<!-- 📬 Connect With Me -->
 <h2 align="center">📬 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/conquest-X1">
