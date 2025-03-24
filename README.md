@@ -1,5 +1,5 @@
 <!-- 🚀 Fully Centered Animated Fire Header -->
-<p align="center">
+<p align="center" style="width:100%;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=FFA500&center=true&vCenter=true&multiline=true&height=80&lines=🔥+Welcome+to+My+GitHub!+🔥;Exploring+Code+One+Line+at+a+Time!+🚀" />
 </p>
 
@@ -93,7 +93,7 @@
 ---
 
 <!-- 🚀 Fully Centered Animated Fire Footer -->
-<p align="center">
+<p align="center" style="width:100%;">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" height="160px">
 </p>
 
