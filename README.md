@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🚀 Welcome to My GitHub Profile!&fontSize=35&fontColor=fff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🚀%20Welcome%20to%20My%20GitHub%20Profile!&fontSize=35&fontColor=fff)
 
 ## 🚀 About Me
 
@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on **Smart Healthcare Assistant**
 - 🌱 I’m learning **Machine Learning**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **My previous work**
 - 📫 How to reach me: **priyanshu82711@gmail.com**
 
 ---
@@ -41,8 +40,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Priyanshu82711&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu82711&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyans11&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyans11&theme=radical" />
 </p>
 
 ---
