@@ -1,6 +1,9 @@
-<!-- 🔥 Aizen GIF (Appearing Above Welcome Text) -->
+<!-- 🔥 Aizen Video (Appearing Above Welcome Text) -->
 <div align="center">
-  <img src="https://c.tenor.com/UQESusJVIRwAAAAd/tenor.gif" width="500px" height="auto">
+  <video width="500px" height="auto" autoplay loop muted>
+    <source src="https://i.imgur.com/BL50FxY.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 <!-- 🚀 Welcome Message -->
@@ -21,15 +24,12 @@
 
 <!-- 🚀 About Me Section -->
 <h2 align="center">🚀 About Me</h2>
-
 <div align="center">
-  
 🎓 **B.E. in Information Technology** at **UIET, Panjab University**  
 💻 Passionate about **Web Development & Machine Learning**  
 🔭 Currently working on a **Smart Healthcare Assistant** project  
 👯 Open to collaborating on **Open Source & Innovative Tech Solutions**  
 📫 Contact me at **priyanshu82711@gmail.com**  
-
 </div>
 
 ---
@@ -60,7 +60,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 </div>
 
 ---
