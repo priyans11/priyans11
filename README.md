@@ -1,16 +1,12 @@
-<!-- 🔥 Animated Header with Aizen GIF -->
-<div align="center" style="width: 100%; position: relative;">
-  <!-- Background GIF -->
-  <img src="https://c.tenor.com/UQESusJVIRwAAAAd/tenor.gif" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;">
-  
-  <!-- Welcome Message -->
-  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-             font-family: 'Orbitron', sans-serif; font-size: 36px; font-weight: bold;
-             background: linear-gradient(to right, #8A2BE2, #4B0082, #00FFFF); 
-             -webkit-background-clip: text; color: transparent; padding: 10px 20px;">
-    🚀 Welcome to My GitHub! 🚀
-  </h1>
+<!-- 🔥 Aizen GIF (Appearing Above Welcome Text) -->
+<div align="center">
+  <img src="https://c.tenor.com/UQESusJVIRwAAAAd/tenor.gif" width="500px" height="auto">
 </div>
+
+<!-- 🚀 Welcome Message -->
+<h1 align="center">
+  🚀 Welcome to My GitHub! 🚀
+</h1>
 
 ---
 
@@ -25,11 +21,8 @@
 
 <!-- 🚀 About Me Section -->
 <h2 align="center">🚀 About Me</h2>
-<div align="center">
-  <img src="https://media.giphy.com/media/h8nXhJ9TfRuwzZYg5E/giphy.gif" width="100%" height="3px">
-</div>
 
-<div align="center" style="background: linear-gradient(45deg, rgba(138,43,226,0.7), rgba(0,0,255,0.7)); padding: 20px; border-radius: 15px;">
+<div align="center">
   
 🎓 **B.E. in Information Technology** at **UIET, Panjab University**  
 💻 Passionate about **Web Development & Machine Learning**  
@@ -37,10 +30,6 @@
 👯 Open to collaborating on **Open Source & Innovative Tech Solutions**  
 📫 Contact me at **priyanshu82711@gmail.com**  
 
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/h8nXhJ9TfRuwzZYg5E/giphy.gif" width="100%" height="3px">
 </div>
 
 ---
@@ -113,4 +102,5 @@
 
   <p>
     <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%">
-  </
+  </p>
+</div>
