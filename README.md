@@ -6,12 +6,9 @@
   </video>
 </div>
 
-<!-- 🚀 Welcome Message -->
 <h1 align="center">
   🚀 Welcome to My GitHub! 🚀
 </h1>
-
----
 
 <!-- ✨ Smooth Typing Effect -->
 <div align="center">
@@ -20,16 +17,17 @@
   </h1>
 </div>
 
----
 
 <!-- 🚀 About Me Section -->
 <h2 align="center">🚀 About Me</h2>
-<div align="center">
-🎓 **B.E. in Information Technology** at **UIET, Panjab University**  
-💻 Passionate about **Web Development & Machine Learning**  
-🔭 Currently working on a **Smart Healthcare Assistant** project  
-👯 Open to collaborating on **Open Source & Innovative Tech Solutions**  
-📫 Contact me at **priyanshu82711@gmail.com**  
+<div>
+
+🎓 *B.E. in Information Technology* at *UIET, Panjab University*  
+💻 Passionate about *Web Development & Machine Learning*  
+🔭 Currently working on a *Smart Healthcare Assistant* project  
+👯 Open to collaborating on *Open Source & Innovative Tech Solutions*  
+📫 Contact me at *priyanshu82711@gmail.com*  
+
 </div>
 
 ---
