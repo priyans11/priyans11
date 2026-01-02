@@ -23,10 +23,9 @@
 <div>
 
 🎓 *B.E. in Information Technology* at *UIET, Panjab University*  
-💻 Passionate about *Web Development & Machine Learning*  
-🔭 Currently working on a *Smart Healthcare Assistant* project  
+💻 Passionate about *Web Development & Artificial Intelligence*  
 👯 Open to collaborating on *Open Source & Innovative Tech Solutions*  
-📫 Contact me at *priyanshu82711@gmail.com*  
+📫 Contact me at *priyans.exe@gmail.com*  
 
 </div>
 
